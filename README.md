@@ -1,1 +1,2 @@
-Biomass Green Solutions focuses on converting agricultural waste and biomass into useful energy. We aim to build a sustainable future, reduce environmental pollution, and support local economic growth through innovative products and technologies.
+# Website Upgrade
+This is an upgraded version of the website, including new features like a gallery and testimonials page.
